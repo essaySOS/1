@@ -1,0 +1,53 @@
+.logo{
+ width: 50px;
+ width: 50px;
+}
+header{
+border-bottom: 2px dotted black;   
+}
+.LoL{
+text-align: center;
+box-sizing: border-box;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+background-color: yellow;
+}
+.barban{
+text-align: center;
+box-sizing: border-box;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+background-color:rgb(255, 90, 90) ;
+}
+.tennis{
+text-align: center;
+box-sizing: border-box;
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+background-color:rgb(99, 99, 250)
+}
+.img1{
+width: auto;
+height: auto;
+}
+.LoL:hover{
+border: solid;
+border-radius: 24deg;
+}
+.barban:hover{
+    border: solid;
+    border-radius: 24deg;
+    }
+.tennis:hover{
+    border: solid;
+    border-radius: 24deg;
+ }
+ .gra1{
+background: linear-gradient(45deg, yellow, orange );
+ }
+ .gra2{
+ background: linear-gradient(45deg, red, black);
+ }
